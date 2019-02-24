@@ -1,4 +1,4 @@
-package com.fengkun.java8;
+package com.fengkun.java8.comparator;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
