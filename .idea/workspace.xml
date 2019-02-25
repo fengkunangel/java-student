@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d84bf46-cfe1-41c1-9585-0a12d7f14af7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Java8Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Java8Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Java8Example3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/com/fengkun/java8/comparator/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/comparator/Developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/com/fengkun/java8/comparator/TestSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/comparator/TestSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/com/fengkun/java8/comparator/TestSortingLamdba.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/comparator/TestSortingLamdba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/com/fengkun/java8/filter/BeforeJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/filter/BeforeJava8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/com/fengkun/java8/filter/FilterJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/filter/FilterJava8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/com/fengkun/java8/filter/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/filter/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/com/fengkun/java8/map/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/map/Staff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/com/fengkun/java8/map/TextJava8Map1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/map/TextJava8Map1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/com/fengkun/java8/map/TextJava8Map2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/map/TextJava8Map2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/com/fengkun/java8/map/TextJava8Map3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/com/fengkun/java8/map/TextJava8Map3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/META-INF/synchronized.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/fengkun/synchronized_/DisappearRequest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/fengkun/synchronized_/SynchronizedClassClass5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/fengkun/synchronized_/SynchronizedClassStatic4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/fengkun/synchronized_/SynchronizedException6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/fengkun/synchronized_/SynchronizedObjectCodeBlock2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/fengkun/synchronized_/SynchronizedObjectMethod3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/fengkun/synchronized_/SynchronizedOtherMethod8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/fengkun/synchronized_/SynchronizedRecursion7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/fengkun/synchronized_/SynchronizedSuperClass9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/fengkun/synchronized_/TestClass.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,11 +41,71 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java8/src/com/fengkun/java8/map/TextJava8Map3.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Java8Example1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#911#925#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+              <folding>
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#653#654#0" expanded="true" />
+                <element signature="e#689#690#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+                <element signature="e#763#764#0" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Java8Example2.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="263">
-              <caret line="59" column="1" lean-forward="true" selection-start-line="15" selection-end-line="59" selection-end-column="1" />
+              <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Java8Example3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,6 +189,10 @@
         <option value="$PROJECT_DIR$/java8/src/com/fengkun/java8/map/TextJava8Map2.java" />
         <option value="$PROJECT_DIR$/java8/src/com/fengkun/java8/map/Staff.java" />
         <option value="$PROJECT_DIR$/java8/src/com/fengkun/java8/map/TextJava8Map3.java" />
+        <option value="$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Java8Example1.java" />
+        <option value="$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Java8Example2.java" />
+        <option value="$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Item.java" />
+        <option value="$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Java8Example3.java" />
       </list>
     </option>
   </component>
@@ -157,10 +203,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="-1" />
-    <option name="width" value="1920" />
-    <option name="height" value="1082" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="898" />
+    <option name="y" value="105" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -194,6 +241,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-student" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-student" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="grouping" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -204,7 +259,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551021853446" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551109799284" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -223,13 +278,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TextJava8Map3">
-    <configuration name="BeforeJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fengkun.java8.filter.BeforeJava8" />
+  <component name="RunManager" selected="Application.Java8Example3">
+    <configuration name="Java8Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fengkun.java8.grouping.Java8Example1" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fengkun.java8.filter.*" />
+          <option name="PATTERN" value="com.fengkun.java8.grouping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fengkun.java8.filter.FilterJava8" />
+    <configuration name="Java8Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fengkun.java8.grouping.Java8Example2" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fengkun.java8.filter.*" />
+          <option name="PATTERN" value="com.fengkun.java8.grouping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextJava8Map1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fengkun.java8.map.TextJava8Map1" />
+    <configuration name="Java8Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fengkun.java8.grouping.Java8Example3" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fengkun.java8.map.*" />
+          <option name="PATTERN" value="com.fengkun.java8.grouping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,19 +345,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BeforeJava8" />
-      <item itemvalue="Application.FilterJava8" />
-      <item itemvalue="Application.TextJava8Map1" />
       <item itemvalue="Application.TextJava8Map2" />
       <item itemvalue="Application.TextJava8Map3" />
+      <item itemvalue="Application.Java8Example1" />
+      <item itemvalue="Application.Java8Example2" />
+      <item itemvalue="Application.Java8Example3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java8Example3" />
+        <item itemvalue="Application.Java8Example2" />
+        <item itemvalue="Application.Java8Example1" />
         <item itemvalue="Application.TextJava8Map3" />
         <item itemvalue="Application.TextJava8Map2" />
-        <item itemvalue="Application.TextJava8Map1" />
-        <item itemvalue="Application.FilterJava8" />
-        <item itemvalue="Application.BeforeJava8" />
       </list>
     </recent_temporary>
   </component>
@@ -324,17 +379,18 @@
       <workItem from="1546876490651" duration="446000" />
       <workItem from="1550851083142" duration="2818000" />
       <workItem from="1550933554381" duration="2111000" />
-      <workItem from="1551018427875" duration="2866000" />
+      <workItem from="1551018427875" duration="5566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25623000" />
+    <option name="totallyTimeSpent" value="28323000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1082" extended-state="6" />
+    <frame x="898" y="105" width="1400" height="990" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.59861594" visible="true" weight="0.19370331" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.59861594" weight="0.17503692" />
       <window_info id="Structure" order="1" sideWeight="0.4013841" side_tool="true" weight="0.26440176" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -343,15 +399,15 @@
       <window_info id="Favorites" order="6" side_tool="true" weight="0.32964602" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32756633" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30565166" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993015" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.6663191" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.6663191" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.6343714" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.63399374" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3298731" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -365,7 +421,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.59861594" visible="true" weight="0.26809454" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.59861594" visible="true" weight="0.17503692" />
       <window_info id="Structure" order="1" sideWeight="0.4013841" side_tool="true" weight="0.26440176" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -374,17 +430,17 @@
       <window_info id="Favorites" order="6" side_tool="true" weight="0.32964602" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32756633" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2768166" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993015" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32871974" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.6663191" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.6343714" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.63399374" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3298731" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -684,8 +740,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java8/src/com/fengkun/java8/map/TextJava8Map3.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Java8Example1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#911#925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding>
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Java8Example2.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
-          <caret line="59" column="1" lean-forward="true" selection-start-line="15" selection-end-line="59" selection-end-column="1" />
+          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/com/fengkun/java8/grouping/Java8Example3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
