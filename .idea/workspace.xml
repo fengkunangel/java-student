@@ -26,12 +26,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d84bf46-cfe1-41c1-9585-0a12d7f14af7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/juc/src/com/fengkun/study/thread/BlockingQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc/src/com/fengkun/study/thread/ProdConsumerBlockingQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc/src/com/fengkun/study/thread/ProdConsumerTraditionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc/src/com/fengkun/study/thread/SyncAndReentrantLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juc/src/com/fengkun/study/thread/SynchronousQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/com/fengkun/study/thread/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/com/fengkun/study/thread/MyThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/juc/META-INF/juc.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/juc/com/fengkun/study/thread/MyThreadPoolDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/juc/com/fengkun/study/thread/MyResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/juc/com/fengkun/study/thread/MyResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/juc/com/fengkun/study/thread/ProdConsumerBlockingQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/juc/com/fengkun/study/thread/ProdConsumerBlockingQueueDemo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,15 +58,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/juc/src/com/fengkun/study/thread/ProdConsumerBlockingQueueDemo.java">
+        <entry file="file://$PROJECT_DIR$/juc/src/com/fengkun/study/thread/MyThreadPoolDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2326#2327#0" expanded="true" />
-                <element signature="e#2353#2354#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="353">
+              <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juc/src/com/fengkun/study/thread/DeadLockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Sorfware/JDK8/jdk1.8/src.zip!/java/util/concurrent/Executors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="215" column="31" lean-forward="true" selection-start-line="215" selection-start-column="31" selection-end-line="215" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Sorfware/JDK8/jdk1.8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="545" lean-forward="true" selection-start-line="545" selection-end-line="545" />
             </state>
           </provider>
         </entry>
@@ -119,6 +142,9 @@
         <option value="$PROJECT_DIR$/juc/src/com/fengkun/study/thread/ProdConsumerTraditionDemo.java" />
         <option value="$PROJECT_DIR$/juc/src/com/fengkun/study/thread/SyncAndReentrantLockDemo.java" />
         <option value="$PROJECT_DIR$/juc/src/com/fengkun/study/thread/ProdConsumerBlockingQueueDemo.java" />
+        <option value="$PROJECT_DIR$/juc/src/com/fengkun/study/thread/T.java" />
+        <option value="$PROJECT_DIR$/juc/src/com/fengkun/study/thread/MyThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/juc/src/com/fengkun/study/thread/DeadLockDemo.java" />
       </list>
     </option>
   </component>
@@ -129,9 +155,10 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="960" />
-    <option name="width" value="960" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="700" />
+    <option name="y" value="138" />
+    <option name="width" value="1840" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectId" id="1akjtqENNgu6cFfABBDfZLSen5W" />
@@ -200,7 +227,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591278874825" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591439059656" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -225,9 +252,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProdConsumerBlockingQueueDemo">
-    <configuration name="BlockingQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fengkun.study.thread.BlockingQueueDemo" />
+  <component name="RunManager" selected="Application.DeadLockDemo">
+    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fengkun.study.thread.DeadLockDemo" />
+      <module name="juc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fengkun.study.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fengkun.study.thread.MyThreadPoolDemo" />
       <module name="juc" />
       <extension name="coverage">
         <pattern>
@@ -252,19 +292,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdConsumerTraditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fengkun.study.thread.ProdConsumerTraditionDemo" />
-      <module name="juc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fengkun.study.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SyncAndReentrantLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fengkun.study.thread.SyncAndReentrantLockDemo" />
       <module name="juc" />
@@ -278,8 +305,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronousQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fengkun.study.thread.SynchronousQueueDemo" />
+    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fengkun.study.thread.T" />
       <module name="juc" />
       <extension name="coverage">
         <pattern>
@@ -292,19 +319,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BlockingQueueDemo" />
-      <item itemvalue="Application.SynchronousQueueDemo" />
-      <item itemvalue="Application.ProdConsumerTraditionDemo" />
       <item itemvalue="Application.SyncAndReentrantLockDemo" />
       <item itemvalue="Application.ProdConsumerBlockingQueueDemo" />
+      <item itemvalue="Application.T" />
+      <item itemvalue="Application.MyThreadPoolDemo" />
+      <item itemvalue="Application.DeadLockDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeadLockDemo" />
+        <item itemvalue="Application.MyThreadPoolDemo" />
+        <item itemvalue="Application.T" />
         <item itemvalue="Application.ProdConsumerBlockingQueueDemo" />
         <item itemvalue="Application.SyncAndReentrantLockDemo" />
-        <item itemvalue="Application.ProdConsumerTraditionDemo" />
-        <item itemvalue="Application.SynchronousQueueDemo" />
-        <item itemvalue="Application.BlockingQueueDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -343,18 +370,18 @@
       <workItem from="1588171150550" duration="3000" />
       <workItem from="1590235781042" duration="1982000" />
       <workItem from="1590330298547" duration="12906000" />
-      <workItem from="1591022473764" duration="13015000" />
+      <workItem from="1591022473764" duration="20592000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27903000" />
+    <option name="totallyTimeSpent" value="35480000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1080" extended-state="4" />
+    <frame x="0" y="-1" width="1920" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27262932" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2849099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -364,13 +391,13 @@
       <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.62470025" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39977092" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977092" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5555556" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3857635" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -389,7 +416,7 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27262932" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2849099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -399,13 +426,13 @@
       <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35738832" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39977092" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977092" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5555556" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3857635" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -827,16 +854,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/juc/src/com/fengkun/study/thread/SynchronousQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/juc/src/com/fengkun/study/thread/SyncAndReentrantLockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -860,15 +877,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/com/fengkun/study/thread/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/juc/src/com/fengkun/study/thread/ProdConsumerBlockingQueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        <state relative-caret-position="164">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2326#2327#0" expanded="true" />
             <element signature="e#2353#2354#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/com/fengkun/study/thread/SynchronousQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Sorfware/JDK8/jdk1.8/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="215" column="31" lean-forward="true" selection-start-line="215" selection-start-column="31" selection-end-line="215" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Sorfware/JDK8/jdk1.8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="545" lean-forward="true" selection-start-line="545" selection-end-line="545" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Sorfware/JDK8/jdk1.8/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="119" column="4" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/com/fengkun/study/thread/DeadLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/com/fengkun/study/thread/MyThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
