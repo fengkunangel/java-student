@@ -11,3 +11,4 @@ target
 .DS_Store
 rebel.xml
 .rebel*xml*bak
+.class
